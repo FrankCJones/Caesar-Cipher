@@ -7,8 +7,8 @@ This is also [discussed in the Harvard CS50 class](http://cs50.tv/2012/fall/shor
 
 To test this code, enter this information at the link below:
 
-Phrase: Cn qilem!
+**Phrase:** Cn qilem!
 
-Shift: 500
+**Shift:** 500
 
 http://code.runnable.com/V793MUAKpHAi9BuE/output
