@@ -36,8 +36,8 @@ if shift < -26
     shift = shift % 26 - 26
 end
 
-if shift == 26
-    puts "Shifting by 26 will not change the characters in the cipher."
+if shift == 26 || shift == 0
+    puts "Shifting by 26 or 0 will not change the characters in the cipher."
     puts "Please ener a different shift:"
     shift = gets.chomp.to_i
 end
